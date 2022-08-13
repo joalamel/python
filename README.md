@@ -1,6 +1,6 @@
 # python
 # primera prueba para github
-# prueba desede la nube
+# prueba desde la nube
 # para subir a la nube:
 # / git add .
 # / git commit -m""
